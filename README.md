@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 Proyecto CRM
+# Proyecto CRM
 ## Gestión de Proyectos de Software
 
 ### Pablo Emilio Troncoso
