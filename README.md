@@ -21,7 +21,8 @@
 Gestión de Proyectos de Software
 
 ### Autor
-Estudiante de Ingeniería
+Julian Florez Cifuentes
+Pablo Emilio Troncoso Romero
 
 ### Año
 2026
