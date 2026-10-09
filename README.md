@@ -3,8 +3,6 @@
 # Proyecto CRM
 ## Gestión de Proyectos de Software
 
-### Pablo Emilio Troncoso
-### Julian Florez Cifuentes
 
 ### Facultad de Ingeniería  
 ### Universidad de Medellín
@@ -22,7 +20,7 @@
 Gestión de Proyectos de Software
 
 ### Autor
-Julian Florez Cifuentes
+Julian Florez Cifuentes /
 Pablo Emilio Troncoso Romero
 
 ### Año
