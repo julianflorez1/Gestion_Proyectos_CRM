@@ -3,7 +3,8 @@
 # 🧭 Proyecto CRM
 ## Gestión de Proyectos de Software
 
-<img src="https://img.shields.io/badge/Universidad-De%20Medell%C3%ADn-blue?style=for-the-badge&logo=googlechrome" alt="Universidad de Medellín" />
+## Pablo Emilio Troncoso
+## Julian Florez Cifuentes
 
 ### Facultad de Ingeniería  
 ### Universidad de Medellín
